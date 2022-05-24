@@ -1,0 +1,4 @@
+selenium==4.1.2
+selenium-stealth==1.0.6
+PyYAML==6.0
+requests==2.27.1
